@@ -16,6 +16,6 @@
  2. (✓) Realizar pré-processamento da base (retirar dados inválidos)
  3. (✓) Apresentação da base mostrando as questões que serão respondidas com uma visualização apurada da base.
  4. (✓) Escolher no minimo duas técnica de visualização para aplicar nos dados.
- 5. (x) Apresentar os resultados obtidos com a visualização.
- 6. (x) Escolher ao menos mais uma visualização e apresentar os resultados
+ 5. (✓) Apresentar os resultados obtidos com a visualização.
+ 6. (✓) Escolher ao menos mais uma visualização e apresentar os resultados
  
